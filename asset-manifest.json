@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/lgs-site/static/css/main.e817d765.chunk.css",
+    "main.js": "/lgs-site/static/js/main.2c17db6e.chunk.js",
+    "main.js.map": "/lgs-site/static/js/main.2c17db6e.chunk.js.map",
+    "runtime-main.js": "/lgs-site/static/js/runtime-main.42b4fc60.js",
+    "runtime-main.js.map": "/lgs-site/static/js/runtime-main.42b4fc60.js.map",
+    "static/css/2.405918ca.chunk.css": "/lgs-site/static/css/2.405918ca.chunk.css",
+    "static/js/2.77074090.chunk.js": "/lgs-site/static/js/2.77074090.chunk.js",
+    "static/js/2.77074090.chunk.js.map": "/lgs-site/static/js/2.77074090.chunk.js.map",
+    "index.html": "/lgs-site/index.html",
+    "static/css/2.405918ca.chunk.css.map": "/lgs-site/static/css/2.405918ca.chunk.css.map",
+    "static/css/main.e817d765.chunk.css.map": "/lgs-site/static/css/main.e817d765.chunk.css.map",
+    "static/js/2.77074090.chunk.js.LICENSE.txt": "/lgs-site/static/js/2.77074090.chunk.js.LICENSE.txt",
+    "static/media/CCTV system.058d7fca.jpg": "/lgs-site/static/media/CCTV system.058d7fca.jpg",
+    "static/media/Dog handler.686f117c.jpg": "/lgs-site/static/media/Dog handler.686f117c.jpg",
+    "static/media/Event-security.03f1181a.jpg": "/lgs-site/static/media/Event-security.03f1181a.jpg",
+    "static/media/Guards picture.79b8a1a9.jpg": "/lgs-site/static/media/Guards picture.79b8a1a9.jpg",
+    "static/media/Transit vehicle 2.8fe6f7a7.jpg": "/lgs-site/static/media/Transit vehicle 2.8fe6f7a7.jpg",
+    "static/media/Transport.5ee54e66.jpg": "/lgs-site/static/media/Transport.5ee54e66.jpg",
+    "static/media/VIP Guards.e88c1d4c.jpg": "/lgs-site/static/media/VIP Guards.e88c1d4c.jpg",
+    "static/media/cctv camera.d716f856.jpg": "/lgs-site/static/media/cctv camera.d716f856.jpg",
+    "static/media/fence.127093db.jpg": "/lgs-site/static/media/fence.127093db.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.42b4fc60.js",
+    "static/css/2.405918ca.chunk.css",
+    "static/js/2.77074090.chunk.js",
+    "static/css/main.e817d765.chunk.css",
+    "static/js/main.2c17db6e.chunk.js"
+  ]
+}
